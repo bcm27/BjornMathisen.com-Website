@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Bjørn Mathisen - portfolio and resume',
-  header: "Hi, I'm Bjørn Mathise",
+  header: "Hi, I'm Bjørn Mathisen",
   description: "I'm a recently graduated from Principia College with my Bachelors in Computer Science. I have 4 years of programming experience in a variety of student lead SCRUM/Agile projects and am confident in coding in a variety of languages; C#, C, .net, Python, Java, MYSQL/SQL/MongoDB. Other languages that I have been exposed to are LISP, Ruby, OpCode, Assembly, PHP. HTML/CSS, JavaScript, Masm32 and others. If you would like to see any of my personal and school related projects please see below.",
   name: 'Bjørn Mathisen',
   footerTitle: 'Software Engineer',
