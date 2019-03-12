@@ -22,20 +22,21 @@ module.exports = {
       name: 'Customer Management System ',
       description: 'Desktop WPF C# application developed for a client that allows the user to manage bookings, clients, and view a calendar of future gigs, all hosted on a virtual SQL server.',
       tags: ['C#', 'WPF', 'Database', 'CRM', 'SCRUM', 'Issue Tracking', 'Unit Testing', 'Freelance Work'],
-      alt: 'Combustion Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
-      img: 'combustion.png',
+      alt: 'CRM Basic Screenshot - Main Menu images with buttons',
+      img: 'basiccrm_mainscreen.png',
       url: 'https://github.com/bcm27/CRM_Basic'
     },
     {
       name: 'Club Budgeting Tool',
       description: 'Using SCRUM workflow I developed a desktop C# Windows Forms application allowing students to login and access club budget information, create and store documents on a SQL server accessible from two GUIs. One being a normal user-level access, and the other being an admin-level access. \n',
       tags: ['C#', 'SQL', 'Database', 'SCRUM', 'Issue Tracking', 'Unit Testing', 'Group Project', 'Undergraduate'],
-      img: 'merc-01.png',
       url: 'https://github.com/bcm27/ClubBudgeting'
     },
     {
       name: "Python Chat Server and Client",
       description: '',
+      alt: 'Python GUI chat scren with example conversation',
+      img: 'chatwindow.png',
       tags: ['Python', 'Group', 'Undergraduate', 'Server/Client', 'GUI', 'Database'],
       url: 'https://github.com/bcm27/ChatApp'
     }
@@ -63,9 +64,9 @@ module.exports = {
   ],
   testimonials: [
     {
-      quote: 'Incredibly talented and hardworking. A super friendly guy who is a frequent communicator',
+      quote: 'Incredibly talented and hardworking. A super friendly guy who is a good communicator',
       name: 'Martina Carter',
-      title: 'CEO at Company'
+      title: 'CEO at Living History Edu-tainment'
     },
     {
       quote: 'Wow, thank you for this, you were incredibly helpful and your explanation was very clear!',
