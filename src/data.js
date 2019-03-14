@@ -57,10 +57,16 @@ module.exports = {
       timeline: 'January 2015 - December 2019',
       responsibilities: [
         'Organized and trained over eight student operators; maintained the observatory schedule and organized public campus-wide events on a weekly basis.'
-    ,'Updated training manuals and facilitated the upgrade from DOS to EXP for the telescope control system.'
-    ,'President of the Astronomy Club which organized field trips and maintained a member count of over twenty five students.'
-
-]
+        ,'Updated training manuals and facilitated the upgrade from DOS to EXP for the telescope control system.'
+        ,'President of the Astronomy Club which organized field trips and maintained a member count of over twenty five students.',
+      ]
+    },
+    {
+        title: 'Season Construction Worker at Mchenry County Conservation District',
+        timeline: 'May 2014 to August 2018',
+        responsibilities: ['Worked as an independent building and land maintenance seasonal employee.',
+          'Maintained over 40 different parks and other sites infrastructure as well as general building maintenance.'
+        ]
     }
   ],
   testimonials: [
