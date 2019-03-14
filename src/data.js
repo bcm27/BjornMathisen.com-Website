@@ -30,6 +30,7 @@ module.exports = {
       name: 'Club Budgeting Tool',
       description: 'Using SCRUM workflow I developed a desktop C# Windows Forms application allowing students to login and access club budget information, create and store documents on a SQL server accessible from two GUIs. One being a normal user-level access, and the other being an admin-level access. \n',
       tags: ['C#', 'SQL', 'Database', 'SCRUM', 'Issue Tracking', 'Unit Testing', 'Group Project', 'Undergraduate'],
+      img: 'clubbudgetadminscreen.png',
       url: 'https://github.com/bcm27/ClubBudgeting'
     },
     {
